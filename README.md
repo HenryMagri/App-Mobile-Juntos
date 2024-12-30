@@ -22,14 +22,14 @@ O **Juntos** é um aplicativo desenvolvido com **Expo** e **React Native**, cria
 Abaixo estão alguns prints do aplicativo **Juntos** em funcionamento:
 
 ### Tela de Carregamento
-![Tela de Carregamento](assets/print_loading.png)
+![Tela de Carregamento](assets/print_loading.jpeg)
 
 ### Tela Inicial
-![Tela Inicial](assets/print_landing.png)
+![Tela Inicial](assets/print_landing.jpeg)
 
 ### Tela de Cards
-![Tela de Cards](assets/print_cards.png)
-![Tela de Cards Verso](assets/print_cards_back.png)
+![Tela de Cards](assets/print_cards.jpeg)
+![Tela de Cards Verso](assets/print_cards_back.jpeg)
 
 ### Card Expandido
-![Tela de Cards](assets/print_card_expanded.png)
+![Tela de Cards](assets/print_card_expanded.jpeg)
